@@ -1,0 +1,26 @@
+Binary Search Tree (BST)
+
+This project contains a complete implementation of Binary Search Tree (BST) in Java with multiple operations and algorithms for academic learning and Data Structures practice.
+
+Features Implemented
+
+- BST Insertion
+- Tree Traversals
+  - Inorder
+  - Preorder
+  - Postorder
+  - Level Order
+- Minimum Element Search
+- Node Count and Sum of Nodes
+- Average of Tree Values
+- Height of Tree
+- Count of Leaf Nodes
+- Range Printing (X to Y)
+- Print All Root-to-Leaf Paths
+- Delete Node in BST
+- Valid BST Check
+- Lowest Common Ancestor (LCA)
+
+
+Author: Maimuna Sabir
+Field: Software Engineering Student

@@ -5,7 +5,7 @@ public static void reverse(String name,int index){
     if(index<0){//base condition
         return;
     }
-      //kam 
+      //Work
     System.out.print( name.charAt(index)+"  ");
 
     //recursion
